@@ -1,5 +1,5 @@
 name: Bug report
-description: Report a Tap Translate problem without sharing private screenshot text.
+description: Report a ScreenGloss problem without sharing private screenshot text.
 title: "[Bug]: "
 labels:
   - bug
@@ -7,7 +7,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve Tap Translate.
+        Thanks for helping improve ScreenGloss.
 
         Please do not include private screenshots, personal text, API keys, account details, or anything sensitive in a public issue.
   - type: input
